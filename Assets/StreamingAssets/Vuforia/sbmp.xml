@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Nat" size="300.000000 258.872406" />
+    <ImageTarget name="Amarcam" size="300.000000 100.065102" />
+    <ImageTarget name="DJ" size="300.000000 85.465118" />
+    <ImageTarget name="kp" size="300.000000 52.386936" />
+    <ImageTarget name="amar" size="300.000000 93.955185" />
+    <ImageTarget name="MukeshPatelSchoolLogo" size="300.000000 109.756096" />
+    <ImageTarget name="nmims" size="300.000000 151.199997" />
+    <ImageTarget name="svkm" size="300.000000 382.914581" />
+    <ImageTarget name="natu" size="300.000000 98.191681" />
+    <ImageTarget name="natural" size="300.000000 211.363632" />
+  </Tracking>
+</QCARConfig>
